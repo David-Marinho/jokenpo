@@ -1,0 +1,16 @@
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\bin\Debug\net5.0\jokenpo.exe
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\bin\Debug\net5.0\jokenpo.deps.json
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\bin\Debug\net5.0\jokenpo.runtimeconfig.json
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\bin\Debug\net5.0\jokenpo.runtimeconfig.dev.json
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\bin\Debug\net5.0\jokenpo.dll
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\bin\Debug\net5.0\ref\jokenpo.dll
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\bin\Debug\net5.0\jokenpo.pdb
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.AssemblyInfo.cs
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.dll
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\ref\jokenpo.dll
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.pdb
+C:\Users\David\OneDrive\Documentos\GitHub\jokenpo\obj\Debug\net5.0\jokenpo.genruntimeconfig.cache
